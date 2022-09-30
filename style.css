@@ -8,3 +8,9 @@ p{
 
     color: brown;
 }
+
+#new{
+
+    color: blue;
+    border: 2px solid black;
+}
